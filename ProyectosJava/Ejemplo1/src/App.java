@@ -9,7 +9,7 @@ public class App {
             System.out.println(suma);
             i++;
         } 
-        // Profe, lo hice con do while y si jalo, tambien en C# y si jalo, aqui no se
-        // porque pero en teoria deberia funcionar, gracias de antemano
+        // Profe, lo hice con do while y funcionaba, tambien en C#, aqui no se
+        // porque pero en teoria deberia correr, gracias de antemano
     }
 }
